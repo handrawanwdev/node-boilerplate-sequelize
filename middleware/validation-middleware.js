@@ -1,4 +1,4 @@
-const validator = require("../helpers/validate");
+const validator = require("../helper/validate");
 
 module.exports = {
   header: (validationRule) => {
